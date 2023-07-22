@@ -1,0 +1,34 @@
+.flex {
+  display: flex;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+  color: #ff003d;
+}
+
+div {
+  display: block;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+
+.semibold {
+  font-weight: bolder;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
